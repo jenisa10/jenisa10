@@ -8,6 +8,7 @@ Hello! Welcome to my GitHub page. I am currently a second-year CS student at the
 <a href="https://now-playing-profile-ochre.vercel.app/now-playing/now-playing?open">
     <img src="https://now-playing-profile-ochre.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
+
 ## Keep in touch
 * Twitter: 
 * Instagram:
