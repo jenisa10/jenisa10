@@ -1,6 +1,9 @@
+[![Jenisa's Banner.](https://github.com/jenisa10/jenisa10/blob/master/Banner.png?raw=true)](https://www.jenisa10.github.io)
+
+
 ### Spotify Playing 👋
 
-<a href="https://now-playing-profile-ochre.vercel.app/now-playing?open">
+<a href="https://now-playing-profile-ochre.vercel.app/now-playing/now-playing?open">
     <img src="https://now-playing-profile-ochre.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
