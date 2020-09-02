@@ -3,11 +3,6 @@
 
 Hello! Welcome to my GitHub page. I am currently a second-year CS student at the California Polytechnic State University, San Luis Obispo (whew that was a long name). Explore my page and feel free to contact me about ahything!
 
-### Spotify Playing 👋
-
-[<img scr="https://novatorem-gamma.vercel.app/api/spotify")/>](https://open.spotify.com/user/1265869951?si=YKVv7KkCQomlQO_IPdRIaw)
-
-
 ## Keep in touch
 * Twitter: 
 * Instagram:
@@ -16,6 +11,8 @@ Hello! Welcome to my GitHub page. I am currently a second-year CS student at the
 
 <!--
 **jenisa10/jenisa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Spotify Playing 👋
+[![Spotify](https://jenisa10.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 Here are some ideas to get you started:
 
