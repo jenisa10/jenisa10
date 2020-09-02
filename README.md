@@ -5,9 +5,8 @@ Hello! Welcome to my GitHub page. I am currently a second-year CS student at the
 
 ### Spotify Playing 👋
 
-<a href="https://now-playing-profile-ochre.vercel.app/now-playing/now-playing?open">
-    <img src="https://now-playing-profile-ochre.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[![Spotify](https://jenisa10.vercel.app/api/spotify)](https://open.spotify.com/user/1265869951?si=YKVv7KkCQomlQO_IPdRIaw)
+
 
 ## Keep in touch
 * Twitter: 
