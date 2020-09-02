@@ -4,10 +4,10 @@
 Hello! Welcome to my GitHub page. I am currently a second-year CS student at the California Polytechnic State University, San Luis Obispo (whew that was a long name). Explore my page and feel free to contact me about ahything!
 
 ## Keep in touch
-* <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />
-* Instagram:
+* [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />(https://twitter.com/JenisaNguyen)]
+* [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />(https://www.instagram.com/jenisa_/?hl=en)]
+* [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />(https://www.linkedin.com/in/jenisanguyen/)]
 * Personal site: coming soon...
-* LinkedIn: 
 
 <!--
 **jenisa10/jenisa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
