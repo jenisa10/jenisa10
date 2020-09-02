@@ -5,7 +5,7 @@ Hello! Welcome to my GitHub page. I am currently a second-year CS student at the
 
 ### Spotify Playing 👋
 
-[![Spotify](https://jenisa10.vercel.app/api/spotify)](https://open.spotify.com/user/1265869951?si=YKVv7KkCQomlQO_IPdRIaw)
+[<img scr="https://novatorem-gamma.vercel.app/api/spotify")/>](https://open.spotify.com/user/1265869951?si=YKVv7KkCQomlQO_IPdRIaw)
 
 
 ## Keep in touch
