@@ -4,7 +4,7 @@
 Hello! Welcome to my GitHub page. I am currently a second-year CS student at the California Polytechnic State University, San Luis Obispo (whew that was a long name). Explore my page and feel free to contact me about ahything!
 
 ## Keep in touch
-* Twitter: 
+* <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />
 * Instagram:
 * Personal site: coming soon...
 * LinkedIn: 
