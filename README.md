@@ -3,9 +3,9 @@
 
 # Hello and welcome to my GitHub page! 
 ## About me:
-* 📕 Current CS second-year @ Cal Poly SLO
-* 🌱 I’m currently learning JS, HTML, CSS.
-* 😀 I like to sleep, code, and play games in my free time.
+* 📕 CS second-year @ Cal Poly SLO.
+* 🌱 Currently learning React and Pandas.
+* 😀 I like to sleep, code, and play video games in my free time.
 * 💬 Ask me about boba tea.
 * ⚡ Fun fact: I have been to over 50 boba places.
 
