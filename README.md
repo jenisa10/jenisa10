@@ -1,5 +1,5 @@
 # Jenisa Nguyen---@jenisa10
-[![Jenisa's Banner.](https://github.com/jenisa10/jenisa10/blob/master/Banner.png?raw=true)](https://www.jenisa10.github.io)
+[![Jenisa's Banner.](https://github.com/jenisa10/jenisa10/blob/master/banner.png?raw=true)](https://www.jenisa10.github.io)
 
 # Hello and welcome to my GitHub page! 
 ## About me:
