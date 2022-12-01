@@ -3,7 +3,7 @@
 
 # Hello and welcome to my GitHub page! 
 ## About me:
-* 📕 CS second-year @ Cal Poly SLO.
+* 📕 CS @ Cal Poly SLO.
 * 😄 Pronouns: She/Her/Hers
 * 🌱 Currently learning React and Pandas.
 * 😀 I like to sleep, code, and play video games in my free time.
